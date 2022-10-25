@@ -1,4 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://xerosbaseball.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Xeros terms'
 theme = 'relearn'
+
+defaultContentLanguage = "ja_jp"
+
+[Languages]
+[Languages.ja_jp]
+title = "日本語"
+weight = 1
+languageName = "JApanese"
