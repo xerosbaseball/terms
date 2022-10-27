@@ -1,7 +1,7 @@
 ---
 title: "Xeros規約"
 date: 2022-10-26T07:17:28+09:00
-draft: true
+draft: false
 weight: 5
 chapter: false
 ---
