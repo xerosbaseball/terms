@@ -8,4 +8,3 @@ chapter: false
 
 [チーム紹介]({{<relref "team_concept.ja_jp.md">}})
 
-[チーム規約]({{<relref "team_rule.ja_jp.md">}})
