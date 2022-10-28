@@ -1,7 +1,7 @@
 ---
 title: "規約とか"
 draft: false
-weight: 10
+weight: 2
 chapter: false
 ---
 
