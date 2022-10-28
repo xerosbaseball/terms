@@ -5,4 +5,12 @@ draft: false
 weight: 5
 chapter: false
 ---
-このサイトはXerosの規約について記載したページです。
+このサイトは[Xeros](<https://tmhub.jp/teams/37796/intro>)について記載したページです。
+
+[Xerosについて]({{<relref "about/_index.ja_jp.md">}})
+
+[規約について]({{<relref "rule/_index.ja_jp.md">}})
+
+[試合について]({{<relref "game/_index.ja_jp.md">}})
+
+[消耗品について]({{<relref "ball/_index.ja_jp.md">}})

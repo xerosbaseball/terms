@@ -1,5 +1,5 @@
 ---
-title: "規約とか"
+title: "規約について"
 draft: false
 weight: 2
 chapter: false
