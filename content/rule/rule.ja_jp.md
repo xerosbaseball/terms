@@ -1,7 +1,7 @@
 ---
 title: "チーム規約"
 draft: false
-weight: 5
+weight: 1
 chapter: false
 ---
 

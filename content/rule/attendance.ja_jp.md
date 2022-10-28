@@ -1,8 +1,7 @@
 ---
 title: "出席、欠席の表明について"
-date: 2022-10-27T15:44:29+09:00
 draft: false
-weight: 5
+weight: 3
 chapter: false
 ---
 
