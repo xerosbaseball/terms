@@ -27,4 +27,4 @@ chapter: false
 
 [審判手配]({{<relref "umpire.ja_jp.md">}})
 
-[YouTube]({{<relref "youtube.ja_jp.md">}})
+[YouTube]({{<relref "YouTube.ja_jp.md">}})
