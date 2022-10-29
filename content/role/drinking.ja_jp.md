@@ -1,6 +1,6 @@
 ---
 title: "飲み会"
 draft: false
-weight: 5
+weight: 4
 chapter: false
 ---
