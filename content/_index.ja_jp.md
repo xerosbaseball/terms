@@ -13,4 +13,4 @@ chapter: false
 
 [試合について]({{<relref "game/_index.ja_jp.md">}})
 
-[消耗品について]({{<relref "ball/_index.ja_jp.md">}})
+[各役割について]({{<relref "role/_index.ja_jp.md">}})
