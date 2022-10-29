@@ -13,11 +13,11 @@ chapter: false
 
 [飲み会]({{<relref "drinking.ja_jp.md">}})
 
-[JAXリーグ]({{<relref "jax_league.ja_jp.md">}})
-
 [フォロー]({{<relref "follow_up.ja_jp.md">}})
 
 [グラウンド確保]({{<relref "ground.ja_jp.md">}})
+
+[JAXリーグ]({{<relref "jax_league.ja_jp.md">}})
 
 [采配]({{<relref "manager.ja_jp.md">}})
 
