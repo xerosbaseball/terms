@@ -7,3 +7,5 @@ chapter: false
 ---
 
 [チーム紹介]({{<relref "team_concept.ja_jp.md">}})
+
+[管理に使用しているシステムについて]({{<relref "admin_system.ja_jp.md">}})

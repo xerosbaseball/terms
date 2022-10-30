@@ -2,7 +2,7 @@
 title: "チーム紹介"
 date: 2022-10-28T08:49:43+09:00
 draft: false
-weight: 5
+weight: 1
 chapter: false
 ---
 
