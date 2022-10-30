@@ -23,6 +23,11 @@ hugo new ball_management.ja_jp.md
 hugo server -D
 ```
 
+or
+```
+docker-compose up -d
+```
+
 ### Deploy to GitHub Pages
 This process is fully automated by GitHub Actions. Once the update is pushed to the main branch, then automatically updated.
 
