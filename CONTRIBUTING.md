@@ -8,4 +8,4 @@ You need follow 2 steps below.
 - Create Pull request
 Once both steps are completed the repository owner will merge to main branch
 
-Refer to [CONTRIBUTING.ja_jp.md](#CONTRIBUTING.ja_jp.md) detail.
+Refer to [CONTRIBUTING.ja_jp.md](/content/contributing/CONTRIBUTING.ja_jp.md) detail.
