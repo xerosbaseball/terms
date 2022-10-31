@@ -30,9 +30,3 @@ docker-compose up -d
 
 ### Deploy to GitHub Pages
 This process is fully automated by GitHub Actions. Once the update is pushed to the main branch, then automatically updated.
-
-### Contribution
-You need follow 2 steps below.
-- Create Issue
-- Create Pull request
-Once both steps are completed the repository owner will merge to main branch

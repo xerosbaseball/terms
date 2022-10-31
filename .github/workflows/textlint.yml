@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: 14
       - run: npm install
-      - run: npx textlint ./content/**/*.md ./content/*.md | tee ./.textlint.log
+      - run: npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md | tee ./.textlint.log
       - if: ${{ failure() }}
         run: gh pr comment --body-file ./.textlint.log "${URL}"
         env:
