@@ -1,4 +1,4 @@
-name: run-textlint-minimum
+name: textlint
 on:
   pull_request:
     types: [opened]
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-textlint-minimum:
+  textlint:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
