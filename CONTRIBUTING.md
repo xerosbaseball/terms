@@ -1,6 +1,6 @@
-This is Contributing guide
+# Contributing guide
 
-### Contribution
+## Contribution
 
 You need follow 2 steps below.
 
