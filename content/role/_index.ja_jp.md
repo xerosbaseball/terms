@@ -23,7 +23,7 @@ chapter: false
 | 審判手配       | 都度   | 派遣審判を手配する。                                |
 | YouTube        | 毎試合 | 活動の動画をYoutubeにアップし、URLを展開する。      |
 
-
+ブラウザから修正
 [試合球管理]({{<relref "ball.ja_jp.md">}})
 
 [集金]({{<relref "collection.ja_jp.md">}})
