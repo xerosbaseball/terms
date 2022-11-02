@@ -1,6 +1,6 @@
 ---
 title: "チーム用具"
 draft: false
-weight: 10
+weight: 24
 chapter: false
 ---

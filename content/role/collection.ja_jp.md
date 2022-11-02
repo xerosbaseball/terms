@@ -1,6 +1,6 @@
 ---
 title: "集金"
 draft: false
-weight: 2
+weight: 5
 chapter: false
 ---
