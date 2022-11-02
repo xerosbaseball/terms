@@ -15,7 +15,9 @@ languageName = "Japanese"
 # This controls whether submenus will be expanded (true), or collapsed (false) in the
 # menu; if no setting is given, the first menu level is set to false, all others to true;
 # this can be overridden in the pages frontmatter
-alwaysopen = true
+alwaysopen = false
+# Shows a checkmark for visited pages on the menu
+showVisitedLinks = true
 # Disable search function. It will hide search bar
 disableSearch = true
 # A title for shortcuts in menu is set by default. Set this to true to disable it.
