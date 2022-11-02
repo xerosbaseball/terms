@@ -9,4 +9,32 @@ defaultContentLanguage = "ja_jp"
 [Languages.ja_jp]
 title = "日本語"
 weight = 1
-languageName = "JApanese"
+languageName = "Japanese"
+
+[params]
+# This controls whether submenus will be expanded (true), or collapsed (false) in the
+# menu; if no setting is given, the first menu level is set to false, all others to true;
+# this can be overridden in the pages frontmatter
+alwaysopen = false
+# Shows a checkmark for visited pages on the menu
+showVisitedLinks = true
+# Disable search function. It will hide search bar
+disableSearch = true
+# A title for shortcuts in menu is set by default. Set this to true to disable it.
+disableShortcutsTitle = false
+# Hide breadcrumbs in the header and only show the current page title
+disableBreadcrumb = false
+# Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
+themeVariant = [ "blue", "relearn-light", "relearn-dark", "green", "red"]
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/xerosbaseball/terms"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
