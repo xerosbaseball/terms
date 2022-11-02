@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-textlint:
+  textlint:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
