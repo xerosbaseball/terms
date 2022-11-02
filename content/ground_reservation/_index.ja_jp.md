@@ -10,7 +10,7 @@ chapter: false
 
 [平塚市]({{<relref "hiratsuka.ja_jp.md">}})
 
-[窯区市]({{<relref "kamakura.ja_jp.md">}})
+[鎌倉市]({{<relref "kamakura.ja_jp.md">}})
 
 [横浜市]({{<relref "yokohama.ja_jp.md">}})
 
