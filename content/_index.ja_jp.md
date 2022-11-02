@@ -14,3 +14,7 @@ chapter: false
 [試合について]({{<relref "game/_index.ja_jp.md">}})
 
 [各役割について]({{<relref "role/_index.ja_jp.md">}})
+
+[グラウンドの予約について]({{<relref "ground_reservation/_index.ja_jp.md">}})
+
+[開発について]({{<relref "contributing/_index.ja_jp.md">}})
