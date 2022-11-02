@@ -6,22 +6,34 @@ on:
   workflow_dispatch:
 
 jobs:
-  textlint:
+  run-textlint:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Switch to pull request branch
+        uses: actions/checkout@v3
         with:
           ref: ${{ github.event.pull_request.head.sha }}
-      - uses: actions/setup-node@v3
+      - name: Setup node with cache
+        uses: actions/setup-node@v3
         with:
           node-version: 14
-      - run: npm install
-      - run: npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md | tee ./.textlint.log
-      - run: npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md
-      - if: ${{ failure() }}
-        run: gh pr comment --body-file ./.textlint.log "${URL}"
+          cache: 'npm'
+      - name: Install packages via packages.json
+        run: npm install
+      - name: Run textlint (avoiding error)
+        run: npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md -o ./.textlint.log | true
+        shell: bash {0}
+      - name: Report if textlint finds problems
+        run: |
+          if [ -e ./.textlint.log ]; then
+            # create body file
+            pwd_esc=$(pwd | sed 's/\//\\\//g')
+            cat ./.textlint.log | sed "s/${pwd_esc}/### :policeman: ./g" >> ./.body.txt
+            # pr comment
+            gh pr comment --body-file ./.body.txt "${URL}"
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           URL: ${{ github.event.pull_request.html_url }}
