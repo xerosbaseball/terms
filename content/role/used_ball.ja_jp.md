@@ -1,6 +1,6 @@
 ---
-title: "フォロー"
+title: "新古球管理"
 draft: false
-weight: 12
+weight: 3
 chapter: false
 ---
