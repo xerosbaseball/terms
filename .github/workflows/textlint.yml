@@ -22,7 +22,7 @@ jobs:
           cache: 'npm'
       - name: Install packages via packages.json
         run: npm install
-      - name: Run textlint for pull request
+      - name: Run textlint
         run: |
           if [ -e github.event.pull_request.html_url ]; then
             gh pr comment --body "Comment from :policeman: is here `npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md`" "${URL}"

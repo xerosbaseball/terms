@@ -8,7 +8,7 @@ chapter: false
 草野球の試合では一般的に新球2球をお互いに出し合って試合をします。
 このボールの値段は[600円](https://www.amazon.co.jp/%E3%83%8A%E3%82%AC%E3%82%BB%E3%82%B1%E3%83%B3%E3%82%B3%E3%83%BC-KENKO-%E4%B8%80%E8%88%AC%E3%83%BB%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%94%A8-1%E3%83%80%E3%83%BC%E3%82%B9-MD/dp/B0723H1YP7/ref=sr_1_5?adgrpid=54958900924&gclid=Cj0KCQjwteOaBhDuARIsADBqRegL0dciBeRvX988IAw015ow6ZowWXdqJxsV9hOXNVlGgnQyFqM8DuYaAnF3EALw_wcB&hvadid=618606268074&hvdev=c&hvlocphy=1009343&hvnetw=g&hvqmt=e&hvrand=17060693618409950340&hvtargid=kwd-411163929325&hydadcr=12118_13379318&jp-ad-ap=0&keywords=%E3%82%B1%E3%83%B3%E3%82%B3%E3%83%BC+m%E7%90%83&qid=1666821210&qu=eyJxc2MiOiIxLjYwIiwicXNhIjoiMS41NSIsInFzcCI6IjEuMzAifQ%3D%3D&sr=8-5)程度かかるため600*2=1200円かかります。
 仮に年間35試合かかると600*2*35=42000円程度の費用負担が必要になります。
-この試合球を管理するためにボール係を決めて管理することにします
+この試合球を管理するためにボール係を決めて管理することにします。
 
 ## ボール係のやること
 
