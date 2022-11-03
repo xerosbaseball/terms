@@ -45,3 +45,12 @@ chapter: false
    2. [textlint](https://github.com/textlint/textlint)も使用していますので、textlintから指摘を受けた場合はこちらもすべて修正します。他にも[textlint](https://ics.media/entry/220404/)も参考になります。textlintについてあなたが疑問に思ったことはほぼすべてネットに書いてあるのでGoogle等の検索エンジンを使うと解決できます。
    3. レビュアによって修正が承認されると、修正が取り込まれます。修正が取り込まれると自動でサイトは更新される仕組みになっていますのでしばらくお待ち下さい。GitHubのActionsタブから更新状況を確認できます。
    4. 修正が取り込まれたらIssueに当該プルリクエストのリンクをコメントで追加してクローズします。
+
+## プルリクエストの修正
+
+レビューの指摘やtextlintの指摘を受けてプルリクエストの修正する場合は、プルリクエストを提出したブランチに対して修正を加えます。
+コマンドラインが使用できる場合は[レビューとマージ](https://backlog.com/ja/git-tutorial/pull-request/07/)を参考にします。
+また、ブラウザしか使用できない場合は[ファイルを編集する](https://docs.github.com/ja/repositories/working-with-files/managing-files/editing-files)
+を参考に修正します。
+スマートフォンを修正対象のファイルを開きブランチを指定してから修正します。
+![edit_from_browser width="320" height="640"](../images/edit_from_browser.png)
