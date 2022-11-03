@@ -7,28 +7,29 @@ chapter: false
 
 ## 事前準備
 
-1. GitHub のアカウントをつくり、サインインする
+1. GitHubのアカウントをつくり、サインインする
 2. チーム規約のファイル群[xerosbaseball/terms](https://github.com/xerosbaseball/terms)を、自分のアカウントにフォーク(コピー)する
    1. [xerosbaseball/terms](https://github.com/xerosbaseball/terms)にアクセスする
    2. Forkボタンを押す
       ![Fork](images/fork.png)
-   3. 名前が [自分のアカウント名]/terms であることを確認して、Create fork ボタンを押す
+   3. 名前が[自分のアカウント名]/termsであることを確認して、Create forkボタンを押す
       ![Create fork](images/create_fork.png)
 
 ## 修正の出し方
 
 1. Issueに課題について記載する
    1. [xerosbaseball/terms](https://github.com/xerosbaseball/terms)にアクセスする
-   2. Issues ボタンを押す
+   2. Issuesボタンを押す
       ![Fork](images/issues.png)
    3. New issueボタンを押す
       ![Fork](images/new_issue.png)
    4. Get startedボタンを押す
       ![Fork](images/get_start.png)
-   5. テンプレートが開くので、タイトル･内容を編集して Submit new issue ボタンを押す
+   5. テンプレートが開くので、タイトルと内容を編集してSubmit new issueボタンを押す
       ![Fork](images/template.png)
    6. Issueにコメントを皆で書いて解決すべき課題はなにか明らかにする
-      目の前におきた現象をそのまま解決すべき課題と信じ込んでしまうことが多く見られます、また課題と改善の議論が同時に行われ解決に直接関係ない改善を実施しようとすることもありました。まずは、目の前に発生した現象が実際に自分たちにどのような悪影響が出ているのか明らかにします。その後、具体的な悪影響が出ていることがわかった時点で初めてこの現象は解決すべき課題であり、具体的な改善策について話し合います。意見を記入したらCommentボタンを押します。
+      目の前におきた現象をそのまま解決すべき課題と信じ込んでしまうことが多く見られます。
+      また、課題と改善の議論が同時に行われ解決に直接関係ない改善を実施しようとすることもありました。まずは、目の前に発生した現象が実際に自分たちにどのような悪影響が出ているのか明らかにします。その後、具体的な悪影響が出ていることがわかった時点で初めてこの現象は解決すべき課題であり、具体的な改善策について話し合います。意見を記入したらCommentボタンを押します。
       ![Fork](images/comment.png)
 2. 修正する
    1. contentディレクトリの下にあるファイルがこのページを含むコンテンツです。これらのファイルを修正します。なお、.mdの拡張子がついているファイルは[マークダウン記法](https://backlog.com/ja/blog/how-to-write-markdown/)で記載しています。
