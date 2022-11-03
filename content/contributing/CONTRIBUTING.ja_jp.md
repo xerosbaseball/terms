@@ -25,15 +25,20 @@ chapter: false
       ![Fork](images/new_issue.png)
    4. Get startedボタンを押す
       ![Fork](images/get_start.png)
-   5. テンプレートが開くので、タイトル･内容を編集して Submit new issue ボタンを押す。
+   5. テンプレートが開くので、タイトル･内容を編集して Submit new issue ボタンを押す
       ![Fork](images/template.png)
    6. Issueにコメントを皆で書いて解決すべき課題はなにか明らかにする
       目の前におきた現象をそのまま解決すべき課題と信じ込んでしまうことが多く見られます、また課題と改善の議論が同時に行われ解決に直接関係ない改善を実施しようとすることもありました。まずは、目の前に発生した現象が実際に自分たちにどのような悪影響が出ているのか明らかにします。その後、具体的な悪影響が出ていることがわかった時点で初めてこの現象は解決すべき課題であり、具体的な改善策について話し合います。意見を記入したらCommentボタンを押します。
       ![Fork](images/comment.png)
 2. 修正する
    1. contentディレクトリの下にあるファイルがこのページを含むコンテンツです。これらのファイルを修正します。なお、.mdの拡張子がついているファイルは[マークダウン記法](https://backlog.com/ja/blog/how-to-write-markdown/)で記載しています。
+   2. 対象ファイルのページで編集ボタン(ペンのアイコン)を押し、内容編集する
+      ![Fork](images/edit.png)
+   3. 編集したらPropose changeを押す
+      ![Fork](images/propose_change.png)
 3. プルリクエストを作成する
-   1. 修正が終わったら編集の取り込みを依頼しますこれをプルリクエストといいます。詳細は[プルリクエストとは](https://backlog.com/ja/git-tutorial/pull-request/01/)とGitHubの公式ドキュメントも合わせて参照してください[pull request の作成](<https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
+   1. 修正が終わったら編集の取り込みを依頼しますこれをプルリクエストといいます。Create pull requestを押します。詳細は[プルリクエストとは](https://backlog.com/ja/git-tutorial/pull-request/01/)とGitHubの公式ドキュメントも合わせて参照してください[pull request の作成](<https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request>)
+      ![Fork](images/pull_request.png)
 4. 修正が取り込まれる
    1. プルリクエストに対してコメントが付いた場合は修正してください。
    2. [textlint](https://github.com/textlint/textlint)も使用していますので、textlintから指摘を受けた場合はこちらもすべて修正します。他にも[textlint](https://ics.media/entry/220404/)も参考になります。textlintについてあなたが疑問に思ったことはほぼすべてネットに書いてあるのでGoogle等の検索エンジンを使うと解決できます。
