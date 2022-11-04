@@ -67,5 +67,3 @@ Xerosは現在、横浜市保土ヶ谷区の春季・秋季区民大会に参加
 ## References
 
 - [横浜市保土ヶ谷区民大会のページ](http://kokudai.gotohp.jp/kumin/top.html)
-- [2022年春大会申込書(住所・電話番号は削除)](https://docs.google.com/spreadsheets/d/1uYScgMYpXTBTEE9AM04igBMckYV9FKDi/edit?usp=sharing&ouid=105801711331360135870&rtpof=true&sd=true)
-- [2022年秋大会申込書(住所・電話番号は削除)](https://docs.google.com/spreadsheets/d/1dE_let33Oh6i62g0Og7McYKZiyfwJ2Pf/edit?usp=sharing&ouid=105801711331360135870&rtpof=true&sd=true)
