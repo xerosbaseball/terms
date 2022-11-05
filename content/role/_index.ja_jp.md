@@ -22,4 +22,5 @@ chapter: false
 | [マッチメイク]({{<relref "matchmaking.ja_jp.md">}})   | 都度   | 対戦相手を探す。                                    |
 | [チーム用具]({{<relref "tool.ja_jp.md">}})     | 毎週   | ボール、キャッチャー道具を持参する。                |
 | [審判手配]({{<relref "umpire.ja_jp.md">}})       | 都度   | 派遣審判を手配する。                                |
+| [スポーツ保険手配]({{<relref "insurance.ja_jp.md">}})       | 年１回   | スポーツ保険を手配する。                                |
 | [YouTube]({{<relref "YouTube.ja_jp.md">}})        | 毎試合 | 活動の動画をYouTubeにアップし、URLを展開する。      |
