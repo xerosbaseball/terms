@@ -1,4 +1,7 @@
-# How to build
+# Xeros terms
+
+
+This is Xeros baseball team terms [![textlint](https://github.com/xerosbaseball/terms/actions/workflows/textlint.yml/badge.svg)](https://github.com/xerosbaseball/terms/actions/workflows/textlint.yml)[![Actions Status: deploy](https://github.com/xerosbaseball/terms/actions/workflows/actions.yml/badge.svg)](https://github.com/xerosbaseball/terms/actions/workflows/actions.yml)
 
 ## Getting Started
 
