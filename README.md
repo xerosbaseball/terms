@@ -1,6 +1,7 @@
 # Xeros terms
 
-This is Xeros baseball team terms [![Actions Status: test](https://github.com/xerosbaseball/terms/workflows/textlint/badge.svg)](https://github.com/xerosbaseball/actions?query=workflow%3A"textlint")
+This is Xeros baseball team terms [![Actions Status: test](https://github.com/xerosbaseball/terms/workflows/textlint/badge.svg)](https://github.com/xerosbaseball/actions?query=workflow%3A"textlint")[![Actions Status: deploy](https://github.com/xerosbaseball/terms/workflows/actions/badge.svg)](https://github.com/xerosbaseball/actions?query=workflow%3A"actions")
+
 
 ## Getting Started
 
