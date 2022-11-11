@@ -4,6 +4,7 @@ title = 'Xeros terms'
 theme = 'relearn'
 
 defaultContentLanguage = "ja_jp"
+googleAnalytics = "G-X64B3FPG8Q"
 
 [Languages]
 [Languages.ja_jp]
