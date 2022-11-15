@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xerosについて on 日本語</title><link>https://xerosbaseball.github.io/about/</link><description>Recent content in Xerosについて on 日本語</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 07:17:28 +0900</lastBuildDate><atom:link href="https://xerosbaseball.github.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title>チーム紹介</title><link>https://xerosbaseball.github.io/about/team_concept/</link><pubDate>Fri, 28 Oct 2022 08:49:43 +0900</pubDate><guid>https://xerosbaseball.github.io/about/team_concept/</guid><description>Xerosについて ゼロスと読みます。 2003年設立でゼロからスタートという想いを込めました。
+活動日について 毎週土曜日の午前中に活動しています。 通年で活動しており、グラウンドが確保できる限りは冬でもやっています。 人数が集まれば試合、集まらなければ練習をします。 ただし、グラウンドの確保状況によっては土曜日の午後や日曜日に活動することもあります。
+活動地域について 横浜市、藤沢市、平塚市、鎌倉市、茅ヶ崎市を中心に活動しています。
+参加している大会について 神奈川県横浜市保土ヶ谷区の区民大会と 私設リーグである湘南JAXリーグに参加しています。
+チームコンセプト 練習して徐々にうまくなろう。</description></item><item><title>管理に使用しているシステムについて</title><link>https://xerosbaseball.github.io/about/admin_system/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xerosbaseball.github.io/about/admin_system/</guid><description>出欠管理 Playを使用しています。全員にインストールをお願いしています。 新規登録後チーム検索にてチームID'37796’を検索して参加申請をお願いします。 誰かひと目で分かるようにプロフィールに社員なりアバターを設定してください。 なお出欠管理システムに求めているものは次の要件です。
+必須 いつ、どこで試合、もしくは練習がわかる 誰が出席、欠席、出欠入力前かわかる チームメンバーだけに共有できる チームのルールを共有できる 誰が道具を管理しているかわかる あったら嬉しい 個人成績がわかる チーム成績がわかる 出欠入力前のメンバーにフォローができる 出欠が不明なこと、いつになればわかるのかを共有できる 毎回のログインが不要 動画の共有ができる コミュニケーション チームメンバーに馴染みの深いLINEを使用しています。 なお、コミュニケーションの取り方についても合わせて参照してください。
+支払い 日常のコミュニケーションに使用しているLINEとシームレスに連携できるという理由で LINE Payを採用しています。現金での個別会計は支払い忘れの防止するため認めていません。
+背番号管理 ブラウザから編集できて表で管理しやすい Google Sheets を採用しました。
+規約とか(このページ) 軽くて表現力もあり、誰でも編集できて、サーバー管理不要かつ無料ということで以下の3つを使用しています。
+コンテンツ作成:HUGO ホスティング:GitHub Pages ソースコード:GitHub</description></item></channel></rss>
