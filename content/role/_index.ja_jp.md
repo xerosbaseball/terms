@@ -15,7 +15,7 @@ chapter: false
 |[区民大会]({{<relref "convention.ja_jp.md">}})|年2回|区民大会に申し込む、申し込み用紙を記入する。|Xeros13|
 |[飲み会]({{<relref "drinking.ja_jp.md">}})|年1回|納会、歓迎会等のイベントを企画する。|Xeros2|
 |[フォロー]({{<relref "follow_up.ja_jp.md">}})|都度|試合の出席状況を見て入力者が少ない場合フォローする。|Xeros28|
-|[グラウンド確保]({{<relref "ground.ja_jp.md">}})|月3回|公共のグラウンド利用の抽選予約を入れる。<BR>-抽選確定処理を行う(平塚、藤沢は支払い必要）|Xeros1(横浜市),Xeros22(平塚市),Xeros24(平塚市お金の支払)Xeros16(神奈川県),Xeros5(藤沢市),Xeros18(鎌倉市)|
+|[グラウンド確保]({{<relref "ground.ja_jp.md">}})|月3回|公共のグラウンド利用の抽選予約を入れる。<BR>-抽選確定処理を行う(平塚、藤沢は支払い必要）|Xeros1(横浜市),Xeros22(平塚市),Xeros16(神奈川県),Xeros5(藤沢市),Xeros18(鎌倉市)|
 |[横浜グラウンド監視]({{<relref "monitoring.ja_jp.md">}})|月1回|11日の朝に空いているグラウンドを確保する。|Xeros1|
 |[JAXリーグ]({{<relref "jax_league.ja_jp.md">}})|都度|JAXリーグ参加チームとの対戦交渉<BR>-試合予定/試合結果のHPへの入力|Xeros18|
 |[采配]({{<relref "manager.ja_jp.md">}})|毎試合|試合のオーダーを決める。<BR>-交代のタイミングを指示する。|Xeros3|
