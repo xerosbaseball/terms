@@ -17,6 +17,6 @@ chapter: false
 
 [グラウンドの予約について]({{<relref "ground_reservation/_index.ja_jp.md">}})
 
-[定期作業について]({{<relref "operation/_index.ja_jp.md">}})
+[定期作業について]({{<relref "routine/_index.ja_jp.md">}})
 
 [開発について]({{<relref "contributing/_index.ja_jp.md">}})
