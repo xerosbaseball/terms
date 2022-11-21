@@ -24,4 +24,11 @@ jobs:
         run: npm install
       - name: Run textlint
         run: |
-          npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md
+          if [ -e github.event.pull_request.html_url ]; then
+            gh pr comment --body "Comment from :policeman: is here `npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md`" "${URL}"
+          else
+            npx textlint ./content/**/*.ja_jp.md ./content/*.ja_jp.md
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          URL: ${{ github.event.pull_request.html_url }}
