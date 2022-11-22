@@ -1,2 +1,4 @@
 <!-- Analytics -->
-{{ partial "analytics" . }}
+{{ if not .Site.IsServer }}
+  {{ partial "analytics" . }}
+{{ end }}
