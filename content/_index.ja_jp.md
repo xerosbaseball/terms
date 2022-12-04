@@ -7,6 +7,10 @@ chapter: false
 ---
 このサイトは[Xeros](<https://tmhub.jp/teams/37796/intro>)について記載したページです。
 
+{{< play_page >}}
+
+### Contents
+
 [Xerosについて]({{<relref "about/_index.ja_jp.md">}})
 
 [規約について]({{<relref "rule/_index.ja_jp.md">}})
