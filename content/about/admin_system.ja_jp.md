@@ -51,3 +51,4 @@ chapter: false
 - コンテンツ作成:[HUGO](https://gohugo.io/)
 - ホスティング:[GitHub Pages](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages)
 - ソースコード:[GitHub](https://github.com/xerosbaseball/terms)
+- 背景や解説:[Qiita](https://qiita.com/tonitoni415/items/75bb59c0beb97338d40d)
