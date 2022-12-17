@@ -24,7 +24,6 @@ chapter: false
 
 ### 参加している大会について
 
-[神奈川県横浜市保土ヶ谷区の区民大会](http://kokudai.gotohp.jp/kumin/top.html)と
 私設リーグである[湘南JAXリーグ](https://bb.vcuda.net/jax/)に参加しています。
 
 ### チームコンセプト
