@@ -43,7 +43,7 @@ chapter: false
 - 追加手続きの際には、当該年度の初回加入時と同様の方法で手続きをする
 - 加入依頼書とインターネットを混在しての追加加入手続きはできない
 
-## スポーツ安全保険 よくあるご照会
+## よくあるご照会
 - [保険の制度・補償範囲について](https://www.sports-safety.jp/faq2017/?cat=2)  
 - [加入手続きについて](https://www.sports-safety.jp/faq2017/?cat=4)  
 - [傷害保険(ケガ)の補償について](https://www.sports-safety.jp/faq2017/?cat=5)  
