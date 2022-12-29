@@ -1,5 +1,5 @@
 ---
-title: "スポーツ保険手配"
+title: "スポーツ保険"
 draft: false
 weight: 27
 chapter: false
