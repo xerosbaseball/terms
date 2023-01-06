@@ -1,4 +1,4 @@
-name: Delete workflow
+name: Delete workflow history
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
         type: string
 
 jobs:
-  delete:
+  delete-history:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
