@@ -11,7 +11,7 @@ on:
 jobs:
   delete:
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 10
     env:
       GH_TOKEN: ${{ github.token }}
       GH_REPO: ${{ github.repository }}
