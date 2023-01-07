@@ -26,7 +26,7 @@ chapter: false
 | 1    |  [八部公園野球場](https://f-mirai.jp/sports/baseball/happe)           |2時間￥5,760   |観覧席スタンドあり |
 | 2    |  [辻堂南部公園野球場](https://f-mirai.jp/sports/baseball/tsujidou)    |2時間￥3,900    |グラウンドは砂入り人工芝 |
 | 3    |  [葛原スポーツ広場野球場](https://f-mirai.jp/sports/baseball/kuzuhara) |2時間￥1,200    |交通アクセスに難あり |
-| 4    |  [桐原公園野球場](https://f-mirai.jp/sports/baseball/kirihara)        |2時間￥3,200    |狭いがナイター設備あり |
+| 4    |  [桐原公園野球場](https://f-mirai.jp/sports/baseball/kirihara)        |2時間￥780    |狭いがナイター設備あり |
 
 - 藤沢市の抽選は毎月**15**から開始となり、**2ヶ月先**を抽選予約する。(**10**月作業の場合は**12**月の抽選予約となる)
 - **1**カードあたり**1**枠の抽選予約が可能。(土日祝日)※平日は**4**枠可能。
