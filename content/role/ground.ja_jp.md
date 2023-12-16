@@ -7,7 +7,7 @@ chapter: false
 
 ## 確保対象の施設について
 
-Xerosでは[横浜市](https://yoyaku.city.yokohama.lg.jp/)、[神奈川県](https://yoyaku.e-kanagawa.lg.jp/kanagawa/web/)、[藤沢市](https://yoyaku.city.fujisawa.kanagawa.jp/)、[鎌倉市](https://yoyaku.e-kanagawa.lg.jp/kamakura/web/)、[平塚市](https://shisetsu.city.hiratsuka.kanagawa.jp/)の施設を使用しています。
+Xerosでは[横浜市](https://www.shisetsu.city.yokohama.lg.jp/user/Home)、[神奈川県](https://yoyaku.e-kanagawa.lg.jp/kanagawa/web/)、[藤沢市](https://yoyaku.city.fujisawa.kanagawa.jp/)、[鎌倉市](https://yoyaku.e-kanagawa.lg.jp/kamakura/web/)、[平塚市](https://shisetsu.city.hiratsuka.kanagawa.jp/)、[綾瀬市](https://www.ayaseins.jp/cultos/reserve/gin_init2)の施設を使用しています。
 これらの詳細についてはLINEのグループにノートがあるのでそちらを確認してください。
 
 ## 大きな流れ
