@@ -7,7 +7,7 @@ chapter: false
 
 ### 予約システム
 
-[予約システムへのリンク](https://yoyaku.city.yokohama.lg.jp/)
+[予約システムへのリンク](https://www.shisetsu.city.yokohama.lg.jp/user/Home)
 
 ### 抽選について
 
@@ -15,7 +15,7 @@ chapter: false
 
 ### 抽選の仕組みについて
 
-[予約システムにリンクされている利用ガイドブックスポーツ施設編](https://yoyaku.city.yokohama.lg.jp/)を必ず読むこと。
+[予約システムにリンクされている利用ガイドブックスポーツ施設編](https://www.shisetsu.city.yokohama.lg.jp/user/doc/guide_sp/)を必ず読むこと。
 横浜市はドラフトと似たような仕組みになっており、優先順位第1位の抽選->優先順位第2位の抽選->...->優先順位第8位の抽選と抽選が順次行われる。
 そのため人気のあるグラウンドは優先順位を第1位で出さないと当たらないと考えて良い。
 
