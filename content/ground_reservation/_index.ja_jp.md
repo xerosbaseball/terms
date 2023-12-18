@@ -6,12 +6,14 @@ weight: 5
 chapter: false
 ---
 
+[綾瀬市]({{<relref "ayase.ja_jp.md">}})
+
 [藤沢市]({{<relref "fujisawa.ja_jp.md">}})
 
 [平塚市]({{<relref "hiratsuka.ja_jp.md">}})
 
 [鎌倉市]({{<relref "kamakura.ja_jp.md">}})
 
-[横浜市]({{<relref "yokohama.ja_jp.md">}})
-
 [神奈川県]({{<relref "kanagawa.ja_jp.md">}})
+
+[横浜市]({{<relref "yokohama.ja_jp.md">}})
