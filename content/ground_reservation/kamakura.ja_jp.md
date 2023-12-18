@@ -1,7 +1,7 @@
 ---
 title: "鎌倉市"
 draft: false
-weight: 5
+weight: 15
 chapter: false
 ---
 

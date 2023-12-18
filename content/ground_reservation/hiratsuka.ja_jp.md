@@ -1,7 +1,7 @@
 ---
 title: "平塚市"
 draft: false
-weight: 5
+weight: 10
 chapter: false
 ---
 
