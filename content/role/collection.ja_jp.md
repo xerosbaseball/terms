@@ -10,8 +10,8 @@ chapter: false
 Xerosの集金は部費制ではなく都度徴収を採用している。
 採用理由は[こちら](https://github.com/xerosbaseball/terms/blob/main/content/rule/reason_for_anytime_payment.ja_jp.md)を参照のこと。
 
-集金方法は基本的にLINE Payを採用している。
-LINE Pay未使用メンバーには現金で対応している。
+集金方法は基本的に[PayPay](https://paypay.ne.jp/)を採用している。
+[PayPay](https://paypay.ne.jp/)未使用メンバーには現金で対応している。
 
 以降で練習や試合の前後での集金係の役割について述べる。
 
