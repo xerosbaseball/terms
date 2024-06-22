@@ -35,8 +35,7 @@ chapter: false
 
 ### 支払い
 
-日常のコミュニケーションに使用している[LINE](https://line.me/ja/)とシームレスに連携できるという理由で
-[LINE Pay](https://pay.line.me/portal/jp/main)を採用しています。現金での個別会計は支払い忘れの防止するため認めていません。
+[PayPay](https://paypay.ne.jp/)を採用しています。現金での個別会計は支払い忘れの防止するため認めていません。
 
 ### 背番号管理
 
