@@ -1,0 +1,35 @@
+name: Issue Review
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  review_issue:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Review Issue with LLM
+        uses: susumutomita/GitHubVectorIssueProcessor@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          qd-url: ${{ secrets.QD_URL }}
+          qd-api-key: ${{ secrets.QD_API_KEY }}
+          groq-api-key: ${{ secrets.GROQ_API_KEY }}
+          nomic-api-key: ${{ secrets.NOMIC_API_KEY }}
+          github-event-issue-number: ${{ github.event.issue.number }}
+          github-repository: ${{ github.repository }}
