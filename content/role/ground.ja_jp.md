@@ -37,5 +37,5 @@ Xerosでは[横浜市](https://www.shisetsu.city.yokohama.lg.jp/user/Home)、[�
 
 ### 詳細について
 
-[グラウンドの予約について]({{<relref "ground_reservation/_index.ja_jp.md">}})
+[グラウンドの予約について]({{%relref "ground_reservation/_index.ja_jp.md"%}})
 参照のこと。

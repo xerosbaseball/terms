@@ -26,7 +26,7 @@ disableShortcutsTitle = false
 # Hide breadcrumbs in the header and only show the current page title
 disableBreadcrumb = false
 # Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
-themeVariant = [ "blue", "relearn-light", "relearn-dark", "green", "red"]
+themeVariant = ["blue", "relearn-light", "relearn-dark", "green", "red"]
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
@@ -39,3 +39,10 @@ name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']

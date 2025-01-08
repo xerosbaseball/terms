@@ -1,10 +1,10 @@
 ---
 title: "試合について"
+archetype: "home"
 date: 2022-10-26T07:17:28+09:00
 draft: false
 weight: 3
 chapter: false
 ---
 
-[試合の進め方について]({{<relref "game.ja_jp.md">}})
-
+[試合の進め方について]({{%relref "game.ja_jp.md"%}})

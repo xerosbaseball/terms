@@ -31,7 +31,7 @@ chapter: false
 ### コミュニケーション
 
 チームメンバーに馴染みの深い[LINE](https://line.me/ja/)を使用しています。
-なお、[コミュニケーションの取り方について]({{<relref "communication.ja_jp.md">}})も合わせて参照してください。
+なお、[コミュニケーションの取り方について]({{%relref "communication.ja_jp.md"%}})も合わせて参照してください。
 
 ### 支払い
 
